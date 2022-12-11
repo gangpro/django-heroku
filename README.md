@@ -276,7 +276,7 @@
     heroku: Press any key to open up the browser to login or q to exit: 
     oginOpening browser to https://cli-auth.heroku.com/auth/browser/1a8aefff-b784-4902-8372-bc6d470e034d
     Logging in... done
-    Logged in as kangmh86@gmail.com
+    Logged in as email@email.com
     (venv) ➜  DjangoForm git:(master) ✗ ogin
     ```
 
